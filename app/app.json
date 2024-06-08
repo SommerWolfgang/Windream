@@ -1,0 +1,24 @@
+{
+  "id": "",
+  "name": "",
+  "publisher": "",
+  "version": "0.0.1.0",
+  "brief": "",
+  "description": "",
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "14.0.0.0",
+  "application": "14.0.0.0",
+  "supportedLocales": [
+    "en-US",
+    "de-DE",
+    "de-AT",
+    "de-CH"
+  ],
+  "target": "Internal",
+  "runtime": "3.0",
+  "features": [
+    "TranslationFile",
+    "NoImplicitWith"
+  ]
+}
