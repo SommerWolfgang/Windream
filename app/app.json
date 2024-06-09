@@ -1,7 +1,7 @@
 {
-  "id": "",
-  "name": "",
-  "publisher": "",
+  "id": "25485388-bd47-4d5a-adba-7fb3f22f0b30",
+  "name": "Windream",
+  "publisher": "GL-Pharma",
   "version": "0.0.1.0",
   "brief": "",
   "description": "",
@@ -9,6 +9,7 @@
   "screenshots": [],
   "platform": "14.0.0.0",
   "application": "14.0.0.0",
+  "idRange": {"from": 1043880, "to": 1043920},
   "supportedLocales": [
     "en-US",
     "de-DE",

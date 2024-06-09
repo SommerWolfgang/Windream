@@ -1,0 +1,1684 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" source-language="en-US" target-language="en-US" original="Windream">
+    <body>
+      <group id="body">
+        <trans-unit id="Table 3894381869 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Barcode Setup</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Barcode Setup - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3894381869 - Field 1650050144 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Barcode</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Barcode Setup - Field Barcode - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3894381869 - Field 1650050144 - Property 62802879" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Code39,EAN13,Interleaved 2/5</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Barcode Setup - Field Barcode - Property OptionCaption</note>
+        </trans-unit>
+        <trans-unit id="Table 3894381869 - Field 3004954119 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Code</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Barcode Setup - Field Code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3894381869 - Field 3461834954 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Description</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Barcode Setup - Field Description - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3894381869 - Field 312187370 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Font Size</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Barcode Setup - Field Font Size - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3894381869 - Field 1351594800 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>No. Series</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Barcode Setup - Field No. Series - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3894381869 - Field 1272245069 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Report ID</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Barcode Setup - Field Report ID - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3208374875 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>EAN Code Printer</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table EANCodePrinter - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3208374875 - Field 1290563502 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Filename</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table EANCodePrinter - Field Dateiname - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3208374875 - Field 3208374875 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>EANCodePrinter</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table EANCodePrinter - Field EANCodePrinter - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3208374875 - Field 1425776430 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Importer</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table EANCodePrinter - Field Importer - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3208374875 - Field 4137698392 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table EANCodePrinter - Field Nr - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3208374875 - Field 1500924691 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>User-ID</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table EANCodePrinter - Field User-ID - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3208374875 - Field 3030801529 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>windream networkletter</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table EANCodePrinter - Field windream-Laufwerk - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 352835599 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Job Extender Profile</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Job Extender Profile - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 352835599 - Field 4097536581 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Job Profile Name</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Job Extender Profile - Field Job Profile Name - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 352835599 - Field 1931614822 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Object type name</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Job Extender Profile - Field Object type name - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 352835599 - Field 4011441648 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Target Path</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Job Extender Profile - Field Target Path - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1587091669 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>More Search</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table More Search - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1587091669 - Field 1167507281 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Document</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table More Search - Field Document - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1587091669 - Field 1167507281 - Property 62802879" size-unit="char" translate="yes" xml:space="preserve">
+          <source> ,2.Document</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table More Search - Field Document - Property OptionCaption</note>
+        </trans-unit>
+        <trans-unit id="Table 1587091669 - Field 2363328873 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Document Type</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table More Search - Field Document Type - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1587091669 - Field 883711285 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Entry No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table More Search - Field Entry No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1587091669 - Field 432870309 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Form ID</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table More Search - Field Form ID - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1587091669 - Field 2213984960 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Index Field</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table More Search - Field Index Field - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1587091669 - Field 1098399799 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Index Value</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table More Search - Field Index Value - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1587091669 - Field 2708250016 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>User ID</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table More Search - Field User ID - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1163939514 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Parameter Header</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Parameter Header - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1163939514 - Field 696389717 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Bedingung</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Parameter Header - Field Condition - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1163939514 - Field 3878457560 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Bedingung Nr.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Parameter Header - Field Condition No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1163939514 - Field 572534126 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Direct Archiv</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Parameter Header - Field Direct Archiv - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1163939514 - Field 1167507281 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Document</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Parameter Header - Field Document - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1163939514 - Field 1167507281 - Property 62802879" size-unit="char" translate="yes" xml:space="preserve">
+          <source> ,2.Document,3.Document,4.Document,5.Document,6.Document,7.Document,8.Document,9.Document,10.Document</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Parameter Header - Field Document - Property OptionCaption</note>
+        </trans-unit>
+        <trans-unit id="Table 1163939514 - Field 2363328873 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Document Type</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Parameter Header - Field Document Type - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1163939514 - Field 883711285 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Entry No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Parameter Header - Field Entry No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1163939514 - Field 3951948734 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Function</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Parameter Header - Field Function - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1163939514 - Field 3951948734 - Property 62802879" size-unit="char" translate="yes" xml:space="preserve">
+          <source> ,Add,Search</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Parameter Header - Field Function - Property OptionCaption</note>
+        </trans-unit>
+        <trans-unit id="Table 1163939514 - Field 3711240756 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Object ID</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Parameter Header - Field Object ID - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1163939514 - Field 1418569422 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Object Name</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Parameter Header - Field Object Name - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1163939514 - Field 1085746399 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Object Type</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Parameter Header - Field Object Type - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1163939514 - Field 1085746399 - Property 62802879" size-unit="char" translate="yes" xml:space="preserve">
+          <source>,,,Report,,Codeunit,,,Page</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Parameter Header - Field Object Type - Property OptionCaption</note>
+        </trans-unit>
+        <trans-unit id="Table 1163939514 - Field 2836795701 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Objekt Typ Beschreibung</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Parameter Header - Field Object Type Description - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1163939514 - Field 3230771493 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>PDF Filename</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Parameter Header - Field PDF Filename - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1163939514 - Field 198503222 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Primary Search</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Parameter Header - Field Primary Search - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1163939514 - Field 4184392216 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Job Group Name</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Parameter Header - Field Profile Name - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1163939514 - Field 2211094869 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Quicksearch</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Parameter Header - Field Quicksearch - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1163939514 - Field 3166856073 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>ShowRenameWindow</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Parameter Header - Field ShowRenameWindow - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1163939514 - Field 3135334477 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Table ID</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Parameter Header - Field Table ID - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1163939514 - Field 3808951907 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Table Name</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Parameter Header - Field Table Name - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1163939514 - Field 3815981583 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Use in MS Dynamics NAV</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Parameter Header - Field Use in MS Dynamics NAV - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3511822392 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Parameter Lines</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Parameter Lines - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3511822392 - Field 1613565161 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Barcode deactivate Value</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Parameter Lines - Field Barcode deactivate Value - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3511822392 - Field 2913739292 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Default Value</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Parameter Lines - Field Default Value - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3511822392 - Field 2363328873 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Document Type</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Parameter Lines - Field Document Type - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3511822392 - Field 634527934 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Has Table Relation</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Parameter Lines - Field Has Table Relation - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3511822392 - Field 3951769551 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Index Value Type</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Parameter Lines - Field Index Value Type - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3511822392 - Field 4219587655 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Is Vector Index</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Parameter Lines - Field Is Vector Index - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3511822392 - Field 3240609839 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Mandatory field</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Parameter Lines - Field Mandatory field - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3511822392 - Field 339799629 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>MS Dynamics NAV Field</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Parameter Lines - Field MS Dynamics NAV Field - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3511822392 - Field 4044946864 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Navision Field ID</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Parameter Lines - Field Navision Field ID - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3511822392 - Field 3616081685 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Parent No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Parameter Lines - Field Parent No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3511822392 - Field 1077367407 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Search Criteria</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Parameter Lines - Field Search Criteria - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3511822392 - Field 168126350 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Show QuickSearch Field</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Parameter Lines - Field Show QuickSearch Field - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3511822392 - Field 1182985863 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Sort No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Parameter Lines - Field Sort No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3511822392 - Field 3135334477 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Table ID</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Parameter Lines - Field Table ID - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3511822392 - Field 2192283075 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Windream Index</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Parameter Lines - Field Windream Index - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 4218467259 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Selections List</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Selections List - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 4218467259 - Field 3985741890 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Choice List Name</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Selections List - Field Choice List Name - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 4218467259 - Field 2363328873 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Document Type</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Selections List - Field Document Type - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 4218467259 - Field 883711285 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Entry No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Selections List - Field Entry No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 4218467259 - Field 1098399799 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Index Value</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Selections List - Field Index Value - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 4218467259 - Field 1131619133 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Value</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Selections List - Field Value - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2770738799 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Table Filter</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Table Filter WD - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2770738799 - Field 329134311 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Entry No</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Table Filter WD - Field Entry No - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2770738799 - Field 1884737638 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Field</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Table Filter WD - Field Field - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2770738799 - Field 869342929 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Field ID</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Table Filter WD - Field Field ID - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2770738799 - Field 1068272785 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Parent Entry No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Table Filter WD - Field Parent Entry No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2770738799 - Field 90601618 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Source Table ID</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Table Filter WD - Field Source Table ID - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2770738799 - Field 3135334477 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Table ID</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Table Filter WD - Field Table ID - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2770738799 - Field 1878130204 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Type</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Table Filter WD - Field Type - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2770738799 - Field 1878130204 - Property 62802879" size-unit="char" translate="yes" xml:space="preserve">
+          <source>CONST,FILTER,FIELD</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Table Filter WD - Field Type - Property OptionCaption</note>
+        </trans-unit>
+        <trans-unit id="Table 2770738799 - Field 1131619133 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Value</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Table Filter WD - Field Value - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2770738799 - Field 1938826136 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Value Field ID</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Table Filter WD - Field Value Field ID - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2770738799 - Field 958504622 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Whole Value</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Table Filter WD - Field Whole Value - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3979146348 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Table Relation</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Table Relation - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3979146348 - Field 696389717 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Condition</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Table Relation - Field Condition - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3979146348 - Field 883711285 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Entry No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Table Relation - Field Entry No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3979146348 - Field 1884737638 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Field</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Table Relation - Field Field - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3979146348 - Field 869342929 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Field ID</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Table Relation - Field Field ID - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3979146348 - Field 1068272785 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Parent Entry No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Table Relation - Field Parent Entry No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3979146348 - Field 90601618 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Source Table ID</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Table Relation - Field Source Table ID - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3979146348 - Field 1500409770 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Table</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Table Relation - Field Table - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3979146348 - Field 3543874666 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Table Filter</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Table Relation - Field Table Filter - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3979146348 - Field 3135334477 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Table ID</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Table Relation - Field Table ID - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3979146348 - Field 2192283075 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Windream Index</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Table Relation - Field Windream Index - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 65659178 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Table Condition</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table WD Table Condition - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 65659178 - Field 883711285 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Entry No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table WD Table Condition - Field Entry No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 65659178 - Field 1884737638 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Field</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table WD Table Condition - Field Field - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 65659178 - Field 869342929 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Field ID</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table WD Table Condition - Field Field ID - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 65659178 - Field 1496577196 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Option Value</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table WD Table Condition - Field Option Value - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 65659178 - Field 1068272785 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Parent Entry No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table WD Table Condition - Field Parent Entry No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 65659178 - Field 90601618 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Source Table ID</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table WD Table Condition - Field Source Table ID - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 65659178 - Field 3135334477 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Table ID</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table WD Table Condition - Field Table ID - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 65659178 - Field 1878130204 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Type</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table WD Table Condition - Field Type - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 65659178 - Field 1878130204 - Property 62802879" size-unit="char" translate="yes" xml:space="preserve">
+          <source>CONST,FILTER</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table WD Table Condition - Field Type - Property OptionCaption</note>
+        </trans-unit>
+        <trans-unit id="Table 65659178 - Field 1131619133 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Value</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table WD Table Condition - Field Value - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 65659178 - Field 760626747 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Value Language</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table WD Table Condition - Field Value Language - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 65659178 - Field 958504622 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Whole Value</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table WD Table Condition - Field Whole Value - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 748500123 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Windream Button</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Windream Button - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 748500123 - Field 2703452831 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Deleted</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Windream Button - Field Deleted - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 748500123 - Field 3461834954 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Description</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Windream Button - Field Description - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 748500123 - Field 1167507281 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Document</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Windream Button - Field Document - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 748500123 - Field 1167507281 - Property 62802879" size-unit="char" translate="yes" xml:space="preserve">
+          <source> ,2.Document,3.Document</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Windream Button - Field Document - Property OptionCaption</note>
+        </trans-unit>
+        <trans-unit id="Table 748500123 - Field 2363328873 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Document Type</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Windream Button - Field Document Type - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 748500123 - Field 432870309 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Form ID</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Windream Button - Field Form ID - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 748500123 - Field 3951948734 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Function</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Windream Button - Field Function - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 748500123 - Field 3951948734 - Property 62802879" size-unit="char" translate="yes" xml:space="preserve">
+          <source> ,Add,Search</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Windream Button - Field Function - Property OptionCaption</note>
+        </trans-unit>
+        <trans-unit id="Table 748500123 - Field 3898406176 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Function Visible</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Windream Button - Field Function Visible - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 748500123 - Field 1457054730 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Label</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Windream Button - Field Label - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 748500123 - Field 1789400218 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Level</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Windream Button - Field Level - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 748500123 - Field 3320823955 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Line No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Windream Button - Field Line No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 748500123 - Field 1587091669 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>More Search</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Windream Button - Field More Search - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 748500123 - Field 972412687 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Parent Line No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Windream Button - Field Parent Line No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 748500123 - Field 4203609468 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Presentation Order</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Windream Button - Field Presentation Order - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 748500123 - Field 3135334477 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Table ID</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Windream Button - Field Table ID - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2652030948 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Windream Document Type</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Windream Document Type - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2652030948 - Field 3004954119 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Code</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Windream Document Type - Field Code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2652030948 - Field 3461834954 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Description</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Windream Document Type - Field Description - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2652030948 - Field 3688592595 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Dokumententyp</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Windream Document Type - Field Dokumententyp - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2652030948 - Field 239295225 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>External No. Index Value</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Windream Document Type - Field External No. Index Value - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2652030948 - Field 2680524025 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Function ID</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Windream Document Type - Field Function ID - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2652030948 - Field 415360559 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Function name</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Windream Document Type - Field Function name - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2652030948 - Field 2912202790 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>No. Index Value</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Windream Document Type - Field No. Index Value - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2652030948 - Field 1663593181 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Primary Key</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Windream Document Type - Field Primary Key - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2652030948 - Field 487346760 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Primary Key name</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Windream Document Type - Field Primary Key name - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2652030948 - Field 2175300399 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Job Group Name</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Windream Document Type - Field Profle Name - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2652030948 - Field 3135334477 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Check Table ID</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Windream Document Type - Field Table ID - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2652030948 - Field 3622305091 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Check Table name</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Windream Document Type - Field Table name - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3999932706 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Windream Extended Search</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Windream Extended Search - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3999932706 - Field 443068065 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Called by Navigate</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Windream Extended Search - Field Called by Navigate - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3999932706 - Field 1407200743 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Creation Date</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Windream Extended Search - Field Creation Date - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3999932706 - Field 4281331037 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Delete Record</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Windream Extended Search - Field Delete_Record - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3999932706 - Field 1343762524 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Doc Type</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Windream Extended Search - Field Doc Type - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3999932706 - Field 486908828 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Document No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Windream Extended Search - Field Document No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3999932706 - Field 883711285 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Entry No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Windream Extended Search - Field Entry No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3999932706 - Field 4159751202 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>First Entry</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Windream Extended Search - Field First Entry - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3999932706 - Field 3461615370 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Group1</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Windream Extended Search - Field Group1 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3999932706 - Field 1548525519 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Group2</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Windream Extended Search - Field Group2 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3999932706 - Field 2186222136 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Group3</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Windream Extended Search - Field Group3 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3999932706 - Field 1079737925 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Group4</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Windream Extended Search - Field Group4 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3999932706 - Field 4031874262 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Import No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Windream Extended Search - Field Import No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3999932706 - Field 1263885811 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Intentation</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Windream Extended Search - Field Intentation - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3999932706 - Field 458746898 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>NAV Document</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Windream Extended Search - Field NAV Document - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3999932706 - Field 2206733951 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Path</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Windream Extended Search - Field Path - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3999932706 - Field 2708250016 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>User ID</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Windream Extended Search - Field User ID - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3999932706 - Field 151815974 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Value1</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Windream Extended Search - Field Value1 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3999932706 - Field 649223790 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Value10</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Windream Extended Search - Field Value10 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3999932706 - Field 11527173 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Value11</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Windream Extended Search - Field Value11 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3999932706 - Field 3668797852 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Value12</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Windream Extended Search - Field Value12 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3999932706 - Field 3031101235 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Value13</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Windream Extended Search - Field Value13 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3999932706 - Field 2393404618 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Value14</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Windream Extended Search - Field Value14 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3999932706 - Field 1755708001 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Value15</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Windream Extended Search - Field Value15 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3999932706 - Field 1118011384 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Value16</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Windream Extended Search - Field Value16 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3999932706 - Field 480314767 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Value17</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Windream Extended Search - Field Value17 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3999932706 - Field 1455829430 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Value18</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Windream Extended Search - Field Value18 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3999932706 - Field 818132813 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Value19</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Windream Extended Search - Field Value19 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3999932706 - Field 2533693419 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Value2</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Windream Extended Search - Field Value2 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3999932706 - Field 908960059 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Value20</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Windream Extended Search - Field Value20 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3999932706 - Field 1546656676 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Value21</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Windream Extended Search - Field Value21 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3999932706 - Field 2184353293 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Value22</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Windream Extended Search - Field Value22 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3999932706 - Field 2822049910 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Value23</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Windream Extended Search - Field Value23 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3999932706 - Field 2653140887 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Value24</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Windream Extended Search - Field Value24 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3999932706 - Field 3290837504 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Value25</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Windream Extended Search - Field Value25 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3999932706 - Field 3928534121 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Value26</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Windream Extended Search - Field Value26 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3999932706 - Field 271263442 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Value27</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Windream Extended Search - Field Value27 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3999932706 - Field 102354419 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Value28</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Windream Extended Search - Field Value28 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3999932706 - Field 740051036 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Value29</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Windream Extended Search - Field Value29 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3999932706 - Field 3171390036 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Value3</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Windream Extended Search - Field Value3 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3999932706 - Field 1185492332 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Value30</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Windream Extended Search - Field Value30 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3999932706 - Field 1258300185 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Value4</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Windream Extended Search - Field Value4 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3999932706 - Field 1895996802 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Value5</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Windream Extended Search - Field Value5 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3999932706 - Field 4277874247 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Value6</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Windream Extended Search - Field Value6 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3999932706 - Field 620603568 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Value7</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Windream Extended Search - Field Value7 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3999932706 - Field 3002481013 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Value8</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Windream Extended Search - Field Value8 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3999932706 - Field 3640177630 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Value9</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Windream Extended Search - Field Value9 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3999932706 - Field 2652030948 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Windream Document Type</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Windream Extended Search - Field Windream Document Type - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 450701600 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Windream Input Files</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Windream Input Files - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 450701600 - Field 1881551368 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Length</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Windream Input Files - Field Length - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 450701600 - Field 56735747 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Position</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Windream Input Files - Field Position - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 450701600 - Field 1878130204 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Type</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Windream Input Files - Field Type - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 450701600 - Field 1878130204 - Property 62802879" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Mandant,Documenttype,Barcode No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Windream Input Files - Field Type - Property OptionCaption</note>
+        </trans-unit>
+        <trans-unit id="Table 1655495876 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Windream Job</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Windream Job - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1655495876 - Field 3997336476 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Company Name</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Windream Job - Field Company Name - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1655495876 - Field 496290540 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Create Date</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Windream Job - Field Create Date - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1655495876 - Field 1717033355 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Create Time</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Windream Job - Field Create Time - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1655495876 - Field 1214818012 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Create User ID</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Windream Job - Field Create User ID - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1655495876 - Field 3461834954 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Description</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Windream Job - Field Description - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1655495876 - Field 1167507281 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Document</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Windream Job - Field Document - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1655495876 - Field 1167507281 - Property 62802879" size-unit="char" translate="yes" xml:space="preserve">
+          <source> ,2.Document</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Windream Job - Field Document - Property OptionCaption</note>
+        </trans-unit>
+        <trans-unit id="Table 1655495876 - Field 2363328873 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Document Type</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Windream Job - Field Document Type - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1655495876 - Field 3607926203 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Job Error Description</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Windream Job - Field Job Error Description - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1655495876 - Field 201670344 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Job Execution DateTime</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Windream Job - Field Job Execution DateTime - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1655495876 - Field 4048137705 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Job Group Name</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Windream Job - Field Job Group Name - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1655495876 - Field 2622316892 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Job GUID</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Windream Job - Field Job GUID - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1655495876 - Field 3318218501 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Job Status</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Windream Job - Field Job Status - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1655495876 - Field 3711240756 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Object ID</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Windream Job - Field Object ID - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1655495876 - Field 1418569422 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Object Name</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Windream Job - Field Object Name - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1655495876 - Field 1085746399 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Object Type</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Windream Job - Field Object Type - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1655495876 - Field 1085746399 - Property 62802879" size-unit="char" translate="yes" xml:space="preserve">
+          <source>,,Form,Report,,Codeunit,,,Page</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Windream Job - Field Object Type - Property OptionCaption</note>
+        </trans-unit>
+        <trans-unit id="Table 1655495876 - Field 513339096 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Status</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Windream Job - Field Status - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1655495876 - Field 513339096 - Property 62802879" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Work,Error,Success</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Windream Job - Field Status - Property OptionCaption</note>
+        </trans-unit>
+        <trans-unit id="Table 4081422998 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Windream Job Details</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Windream Job Details - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 4081422998 - Field 2622316892 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Job GUID</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Windream Job Details - Field Job GUID - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 4081422998 - Field 3774591486 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>KwName1</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Windream Job Details - Field KwName1 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 4081422998 - Field 1469486054 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>KwName10</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Windream Job Details - Field KwName10 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 4081422998 - Field 831789437 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>KwName11</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Windream Job Details - Field KwName11 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 4081422998 - Field 194092820 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>KwName12</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Windream Job Details - Field KwName12 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 4081422998 - Field 3851363499 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>KwName13</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Windream Job Details - Field KwName13 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 4081422998 - Field 3213666882 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>KwName14</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Windream Job Details - Field KwName14 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 4081422998 - Field 2575970265 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>KwName15</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Windream Job Details - Field KwName15 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 4081422998 - Field 1938273648 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>KwName16</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Windream Job Details - Field KwName16 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 4081422998 - Field 1300577031 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>KwName17</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Windream Job Details - Field KwName17 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 4081422998 - Field 662880414 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>KwName18</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Windream Job Details - Field KwName18 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 4081422998 - Field 25183797 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>KwName19</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Windream Job Details - Field KwName19 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 4081422998 - Field 1861501635 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>KwName2</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Windream Job Details - Field KwName2 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 4081422998 - Field 2818555411 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>KwName20</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Windream Job Details - Field KwName20 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 4081422998 - Field 2499198252 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>KwName3</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Windream Job Details - Field KwName3 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 4081422998 - Field 586108401 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>KwName4</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Windream Job Details - Field KwName4 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 4081422998 - Field 1223805018 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>KwName5</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Windream Job Details - Field KwName5 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 4081422998 - Field 3605682463 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>KwName6</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Windream Job Details - Field KwName6 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 4081422998 - Field 4243379080 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>KwName7</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Windream Job Details - Field KwName7 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 4081422998 - Field 3943500509 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>KwName8</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Windream Job Details - Field KwName8 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 4081422998 - Field 286229830 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>KwName9</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Windream Job Details - Field KwName9 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 4081422998 - Field 151815974 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Value1</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Windream Job Details - Field Value1 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 4081422998 - Field 649223790 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Value10</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Windream Job Details - Field Value10 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 4081422998 - Field 11527173 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Value11</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Windream Job Details - Field Value11 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 4081422998 - Field 3668797852 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Value12</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Windream Job Details - Field Value12 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 4081422998 - Field 3031101235 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Value13</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Windream Job Details - Field Value13 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 4081422998 - Field 2393404618 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Value14</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Windream Job Details - Field Value14 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 4081422998 - Field 1755708001 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Value15</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Windream Job Details - Field Value15 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 4081422998 - Field 1118011384 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Value16</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Windream Job Details - Field Value16 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 4081422998 - Field 480314767 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Value17</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Windream Job Details - Field Value17 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 4081422998 - Field 1455829430 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Value18</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Windream Job Details - Field Value18 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 4081422998 - Field 818132813 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Value19</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Windream Job Details - Field Value19 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 4081422998 - Field 2533693419 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Value2</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Windream Job Details - Field Value2 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 4081422998 - Field 908960059 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Value20</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Windream Job Details - Field Value20 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 4081422998 - Field 3171390036 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Value3</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Windream Job Details - Field Value3 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 4081422998 - Field 1258300185 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Value4</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Windream Job Details - Field Value4 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 4081422998 - Field 1895996802 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Value5</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Windream Job Details - Field Value5 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 4081422998 - Field 4277874247 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Value6</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Windream Job Details - Field Value6 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 4081422998 - Field 620603568 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Value7</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Windream Job Details - Field Value7 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 4081422998 - Field 3002481013 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Value8</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Windream Job Details - Field Value8 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 4081422998 - Field 3640177630 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Value9</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Windream Job Details - Field Value9 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1850316725 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Windream Pool</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Windream Pool - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1850316725 - Field 3378176453 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Assigned to Record ID</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Windream Pool - Field Assigned to Record ID - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1850316725 - Field 1306179594 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Assigned to Record Txt</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Windream Pool - Field Assigned to Record Txt - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1850316725 - Field 993765549 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Barcode No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Windream Pool - Field Barcode No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1850316725 - Field 689242118 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Company Code</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Windream Pool - Field Company Code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1850316725 - Field 883711285 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Entry No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Windream Pool - Field Entry No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1850316725 - Field 1363487369 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>File DateTime</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Windream Pool - Field File DateTime - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1850316725 - Field 3270149514 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>File locate in Windream</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Windream Pool - Field File locate in Windream - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1850316725 - Field 949215307 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Windream Pool - Field No - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1850316725 - Field 2206733951 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Path</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Windream Pool - Field Path - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1850316725 - Field 35450067 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Posted</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Windream Pool - Field Posted - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1850316725 - Field 4032263875 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Release</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Windream Pool - Field Release - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1850316725 - Field 3311533855 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Release Date</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Windream Pool - Field Release Date - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1850316725 - Field 209723943 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Typcode</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Windream Pool - Field Type code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1850316725 - Field 3364130368 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>WD Document Type</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Windream Pool - Field WD Document Type - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3476233692 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Windream Setup</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Windream Setup - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3476233692 - Field 3000263726 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Indexmask Empty Doc Path</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Windream Setup - Field Indexmask Empty Doc Path - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3476233692 - Field 3083484255 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Job Extender INI Path</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Windream Setup - Field Job Extender INI Path - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3476233692 - Field 883060711 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Mail File manuell rename</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Windream Setup - Field Mail File manuell rename - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3476233692 - Field 1329114337 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Order No. Index</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Windream Setup - Field Order No. Index - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3476233692 - Field 1663593181 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Primary Key</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Windream Setup - Field Primary Key - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3476233692 - Field 1597424471 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Purch. Order No. Index</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Windream Setup - Field Purch. Order No. Index - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3476233692 - Field 1372779566 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Purchase Document Type Index</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Windream Setup - Field Purchase Document Type Index - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3476233692 - Field 514691058 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Purchase Object Type</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Windream Setup - Field Purchase Object Type - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3476233692 - Field 2919695149 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Quicksearch Dateformular</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Windream Setup - Field Quicksearch Dateformular - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3476233692 - Field 965164307 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Sales Document Type Index</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Windream Setup - Field Sales Document Type Index - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3476233692 - Field 1816138279 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Sales Object Type</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Windream Setup - Field Sales Object Type - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3476233692 - Field 3304750575 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Search include all Index</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Windream Setup - Field Search include all Index - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3476233692 - Field 806143697 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Search include preversion</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Windream Setup - Field Search include preversion - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3476233692 - Field 4003969706 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Show Filename in Quicksearch</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Windream Setup - Field Show Filename in Quicksearch - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3476233692 - Field 835997044 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Show Indexmask per File</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Windream Setup - Field Show Indexmask per File - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3476233692 - Field 2927652634 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Show Windream Indexmask</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Windream Setup - Field Show Windream Indexmask - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3476233692 - Field 2840129439 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Value for Purchase Order</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Windream Setup - Field Value for Purchase Order - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3476233692 - Field 3042974202 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Value for Sales Order</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Windream Setup - Field Value for Sales Order - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3476233692 - Field 3423059753 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Windream Indexmask Temp Folder</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Windream Setup - Field Windream Indexmask Temp Folder - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3476233692 - Field 3774303586 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Windream Pool Path</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Windream Setup - Field Windream Pool Path - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 532695185 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Windream Values</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Windream Values - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 532695185 - Field 1512593300 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Allow Delete</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Windream Values - Field Allow Delete - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 532695185 - Field 3118178299 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Attached to</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Windream Values - Field Attached to - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 532695185 - Field 399106461 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Action</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Windream Values - Field Copy OR Paste - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 532695185 - Field 399106461 - Property 62802879" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Move,Copy,Manuell</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Windream Values - Field Copy OR Paste - Property OptionCaption</note>
+        </trans-unit>
+        <trans-unit id="Table 532695185 - Field 4054736917 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Fix target path</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Windream Values - Field Fix target path - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 532695185 - Field 463507524 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Has Selection List</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Windream Values - Field Has Selection List - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 532695185 - Field 3951769551 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Index Value Type</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Windream Values - Field Index Value Type - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 532695185 - Field 4219587655 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Is Vector Index</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Windream Values - Field Is Vector Index - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 532695185 - Field 620003098 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Used in Navision</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Windream Values - Field Not Used in Navision - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 532695185 - Field 4184392216 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Job Group Name</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Windream Values - Field Profile Name - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 532695185 - Field 1597973756 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Source Path</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Windream Values - Field Source Path - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 532695185 - Field 1878130204 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Type</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Windream Values - Field Type - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 532695185 - Field 1878130204 - Property 62802879" size-unit="char" translate="yes" xml:space="preserve">
+          <source> ,Dokument Type,Index</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Windream Values - Field Type - Property OptionCaption</note>
+        </trans-unit>
+        <trans-unit id="Table 532695185 - Field 687098786 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Use Doc View</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Windream Values - Field Use Doc View - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 532695185 - Field 3815981583 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Use in MS Dynamics NAV</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Windream Values - Field Use in MS Dynamics NAV - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 532695185 - Field 3366086182 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Use Windream Search</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Windream Values - Field Use Windream Search - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 532695185 - Field 1131619133 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Value</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Windream Values - Field Value - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 532695185 - Field 3223027062 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Variable target path</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Windream Values - Field Variable target path - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3894381869 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Barcode Setup</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Barcode Setup - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3732235795 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>EAN Code Printer</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page EAN Code Printer - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 4112746301 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>EAN Code Printer List</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page EAN Code Printer List - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1310549903 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Input Value</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Input Value - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3070726707 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Move OR Copy</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Move OR Copy - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1163939514 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Parameter Header</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Parameter Header - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1870428521 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Parameter Header Functions</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Parameter Header Functions - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 197039960 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Parameter Header List</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Parameter Header List - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3511822392 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Parameter Lines</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Parameter Lines - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 640215062 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Selection List</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Selection List - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1795855295 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Table Condition</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Table Condition - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2770738799 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Table Filter</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Table Filter WD - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3979146348 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Table Relation</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Table Relation - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3571035974 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Extended Search</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page WD Extended Search - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 136079493 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>WD Field List</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page WD Field List - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1881165008 - Property 1968111052" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Dateinamen ändern</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page WD Filename Change - Property InstructionalText</note>
+        </trans-unit>
+        <trans-unit id="Page 1881165008 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Dateinamen ändern</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page WD Filename Change - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1384212606 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Windream Button Dyn</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Windream Button Dyn - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2652030948 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Windream Document Type</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Windream Document Type - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 570767356 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Windream DragNDrop</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Windream DragNDrop - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1500768223 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Windream Input Parameter</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Windream Input Files Parameter - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 359539320 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Windream More Search</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Windream More Search - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2491065091 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Windream Quicksearch</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Windream Quicksearch FactBox - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 532695185 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Windream Values</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Windream Values - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2389999920 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Windream Values Dyn</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Windream Values Dyn - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2375162950 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Windream Values Index Dyn</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Windream Values Index Dyn - Property Caption</note>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>
